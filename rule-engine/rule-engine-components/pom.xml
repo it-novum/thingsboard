@@ -89,6 +89,10 @@
             <artifactId>kafka-clients</artifactId>
         </dependency>
         <dependency>
+            <groupId>org.hibersap</groupId>
+            <artifactId>com.sap.conn.jco.sapjco3</artifactId>
+        </dependency>
+        <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-sns</artifactId>
         </dependency>
